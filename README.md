@@ -34,5 +34,5 @@ Solution
 </h3>
 </div>
 <div id="header" align="center">
-  <img src=maskify_except_latst_4_digits_.png width="100">
+  <img src=maskify_except_latst_4_digits_.png width="400">
 </div>
